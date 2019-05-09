@@ -61,7 +61,7 @@ void setup() {
   
   ai = new AI(invisibleBall, rightPlayer);
   
-  String developed = "Developed by Oscar Eduardo Ordoñez Medina - 310898 \n Erick Jassiel Blanco Sausameda - 311008";
+  String developed = "Developed by \n Oscar Eduardo Ordoñez Medina - 310898 \n Erick Jassiel Blanco Sausameda - 311008";
 
   showMessageDialog(null, developed, "Credits", INFORMATION_MESSAGE);
 }
